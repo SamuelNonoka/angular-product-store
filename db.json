@@ -1,12 +1,16 @@
 {
   "products": [
     {
-      "id": "ee9a",
-      "title": "novo produto"
+      "title": "Lampada comum",
+      "id": "91f2"
     },
     {
-      "id": "1eb3",
-      "title": "nov"
+      "id": "e57b",
+      "title": "Radio"
+    },
+    {
+      "id": "0869",
+      "title": "Televisao"
     }
   ]
 }
